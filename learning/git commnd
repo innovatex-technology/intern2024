@@ -16,3 +16,13 @@ git commit -m 'message : add program'
 
 //push
 git push  || git git push origin branchname
+
+
+//getting latest code
+git pull || git pull origin branchname
+
+//chnage content
+git diff filenme
+
+come from diff mode 
+:q
